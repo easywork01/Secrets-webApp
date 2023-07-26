@@ -1,7 +1,3 @@
-# Secrets-webApp
-
-Secrets app is used to commit secrets anonymously and share them worldwide. Each user can post a single secret upon registration & login.
-
 ## Description
 
 Secrets is an anonymous secret-sharing web application that allows users to post and share secrets worldwide. Upon registration and login, each user can share a single secret anonymously.
